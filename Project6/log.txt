@@ -8,6 +8,8 @@ loaded audio: Assets/Music/pacman_death.ogg
 Game initialized
 Menu scene created
 Change scene from (unnamed) to Menu
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
 loaded image: Assets/title.png
 Game start event loop
 Key with keycode 67 down
@@ -21,75 +23,5 @@ creating ghost 0
 loaded image: Assets/ghost_flee.png
 loaded image: Assets/ghost_dead.png
 loaded image: Assets/ghost_move_red.png
-Key with keycode 84 down
-Key with keycode 84 down
-Key with keycode 84 down
-Key with keycode 85 down
-Key with keycode 82 down
-Key with keycode 83 down
-Key with keycode 84 down
-Key with keycode 84 down
-Key with keycode 83 down
-Key with keycode 83 down
-Key with keycode 82 down
-Key with keycode 82 down
-Key with keycode 84 down
-Key with keycode 84 down
-Key with keycode 83 down
-Key with keycode 83 down
-Key with keycode 82 down
-Key with keycode 82 down
-Key with keycode 84 down
-Key with keycode 84 down
-Key with keycode 84 down
-Key with keycode 82 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 157 down
-Key with keycode 67 down
 Window close button clicked
 Game end
